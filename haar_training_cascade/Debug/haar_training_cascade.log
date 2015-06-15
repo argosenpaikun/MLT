@@ -1,0 +1,12 @@
+﻿Build started 1/6/2015 1:50:40 PM.
+     1>Project "D:\Library\C++\Project\haar_training_cascade\haar_training_cascade\haar_training_cascade.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\haar_training_cascade.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       FinalizeBuildStatus:
+         Deleting file "Debug\haar_training_cascade.unsuccessfulbuild".
+         Touching "Debug\haar_training_cascade.lastbuildstate".
+     1>Done Building Project "D:\Library\C++\Project\haar_training_cascade\haar_training_cascade\haar_training_cascade.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.10
