@@ -1,0 +1,27 @@
+﻿Build started 2/6/2015 11:15:23 AM.
+     1>Project "D:\Library\C++\Project\haar_training_cascade\traincascade\traincascade.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\traincascade.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Library\C++\Project\haar_training_cascade\Debug\traincascade.exe" /NOLOGO /LIBPATH:D:\Library\C++\Project\haar_training_cascade\haar_training_cascade\opencv\build\x86\vc10\lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_ml2410d.lib opencv_nonfree2410d.lib opencv_objdetect2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_videostab2410d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\traincascade.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Library\C++\Project\haar_training_cascade\Debug\traincascade.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Library\C++\Project\haar_training_cascade\Debug\traincascade.lib" /MACHINE:X86 Debug\boost.obj
+         Debug\cascadeclassifier.obj
+         Debug\features.obj
+         Debug\haarfeatures.obj
+         Debug\HOGfeatures.obj
+         Debug\imagestorage.obj
+         Debug\lbpfeatures.obj
+         Debug\main.obj
+         LINK : D:\Library\C++\Project\haar_training_cascade\Debug\traincascade.exe not found or not built by the last incremental link; performing full link
+         traincascade.vcxproj -> D:\Library\C++\Project\haar_training_cascade\Debug\traincascade.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Library\C++\Project\haar_training_cascade\Debug\traincascade.exe;#1" /manifest Debug\traincascade.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\traincascade.unsuccessfulbuild".
+         Touching "Debug\traincascade.lastbuildstate".
+     1>Done Building Project "D:\Library\C++\Project\haar_training_cascade\traincascade\traincascade.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.38
